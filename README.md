@@ -11,7 +11,7 @@ O objetivo deste projeto foi criar um avatar realista para o aprendizado de tecn
 O projeto é de criação de avatares para o ensino de tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-As IAs Generativas que foram utilizadas são d id para criar avatares, Copilot microsoft para gerar imagens e samsung Studio para edicão do video e clipchamp para colocar legenda. 
+As IAs Generativas que foram utilizadas são d id para criar avatares, Copilot microsoft para gerar imagens e samsung Studio para edicão do video. 
 
 ## 🧐 Processo de Criação
  Primeiro foi feito os avatares e editado as falas depois eu escolhi a capa do video e mais edição, toda está informações para o editor de video, refinando o que faltava até ficar pronto.
@@ -24,8 +24,7 @@ O desafio foi extremamente interessante pois eu ainda não tinha um contato com 
 ```
 
 ###  Insigths
-- [Vídeo (Avatar Virtual)](https://github.com/Ronaldoestudante/lab-natty-or-not/blob/main/Projeto%20Dio%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
-
+- [Vídeo (Avatar Virtual)](https://github.com/Ronaldoestudante/lab-natty-or-not/assets/109828450/040daa69-5236-42f7-b5bf-0a1e0031571e)
 ## Links Interessantes
 
 (https://chatgpt.com/)

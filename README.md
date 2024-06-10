@@ -24,7 +24,7 @@ O desafio foi extremamente interessante pois eu ainda não tinha um contato com 
 ```
 
 ###  Insigths
-- [Vídeo (Avatar Virtual)](https://github.com/Ronaldoestudante/lab-natty-or-not/assets/109828450/040daa69-5236-42f7-b5bf-0a1e0031571e)
+- [Vídeo (Avatar Virtual)](https://github.com/Ronaldoestudante/lab-natty-or-not/assets/109828450/5ba8f9e3-19b1-4d94-865a-ab492f4488c4)
 ## Links Interessantes
 
 (https://chatgpt.com/)
